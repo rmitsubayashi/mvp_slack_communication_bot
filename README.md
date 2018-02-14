@@ -1,2 +1,4 @@
 # mvp_slack_communication_bot
 チーム内のコミュニケーションをサポートしてくれる簡単なボット
+
+pipでslackclientをインストールして、timer.txtをbot.pyと同じフォルダーに入れてください
